@@ -1,0 +1,1 @@
+# SnapShrink-Pro-Client-Side-Image-Compressor
