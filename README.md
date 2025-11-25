@@ -1,2 +1,23 @@
-<div align="center">📸 SnapShrink ProClient-Side Image Compressor & Optimizer<br />🚀 Launch Live Demo</div>📝 OverviewSnapShrink Pro is a secure, high-performance image optimization tool designed to run entirely in the browser. Unlike traditional compressors that upload your files to a remote server, SnapShrink uses the HTML5 Canvas API to process images locally on the user's device.This ensures zero latency and 100% data privacy—your photos never leave your computer.✨ Key Features🔒 Privacy First: 100% Client-side processing. No server uploads.⚡ Instant Results: Zero upload/download time latency.🎨 Smart Formats: Convert standard JPG/PNG images to modern WebP for 30-50% better compression.📏 Auto-Resizing: Intelligent downscaling to max-width constraints (e.g., 1920px).👀 Visual Comparison: Interactive "Before vs. After" slider to verify quality.📱 Responsive Design: Fully functional on desktop, tablet, and mobile.🛠️ Tech StackThis project is built with pure web technologies for maximum speed and compatibility.Core: Vanilla JavaScript (ES6+)Rendering: HTML5 Canvas API (toBlob)Styling: CSS3 (Flexbox/Grid) with Neumorphic design elementsIcons: Inline SVG & Font Integration🚀 How to Run LocallySince this is a static web application, it requires no backend installation.Clone the repositorygit clone [https://github.com/yourusername/snapshrink-pro.git](https://github.com/yourusername/snapshrink-pro.git)
-Open the applicationSimply double-click index.html to open it in your default browser.☁️ Deployment GuideThis project is optimized for AWS S3 Static Website Hosting.Create an S3 Bucket on AWS.Enable Static Website Hosting in the bucket properties.Upload index.html.Set the bucket policy to Public Read access.(Optional) Connect CloudFront for HTTPS and global CDN caching.📄 LicenseDistributed under the MIT License. See LICENSE for more information.<div align="center"><p><i>Built for the modern web.</i></p></div>
+<div align="center">
+
+# 📸 **SnapShrink Pro**
+### **Client-Side Image Compressor & Optimizer**
+
+🔗 **Live Demo:**  
+👉 http://my-photo-compressor-2025.s3-website-us-east-1.amazonaws.com
+
+<br>
+
+![banner](https://img.shields.io/badge/Client--Side-Only-green?style=for-the-badge)
+![banner](https://img.shields.io/badge/No%20Uploads-100%25%20Private-blue?style=for-the-badge)
+![banner](https://img.shields.io/badge/Optimized%20for-WebP-orange?style=for-the-badge)
+
+</div>
+
+---
+
+## 📝 **Overview**
+**SnapShrink Pro** is a fast, privacy-focused image compressor that runs completely **in your browser**.  
+No servers. No uploads. No tracking.
+
+Your images
